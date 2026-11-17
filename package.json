@@ -1,0 +1,9 @@
+{
+  "name": "omp-herdr-title-sync",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Synchronize OMP session titles and Herdr pane labels in both directions",
+  "type": "module",
+  "omp": { "extensions": ["./index.ts"] },
+  "scripts": { "test": "bun test" }
+}
